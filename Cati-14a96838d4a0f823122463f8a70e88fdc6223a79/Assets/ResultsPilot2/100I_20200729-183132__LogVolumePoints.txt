@@ -1,0 +1,2 @@
+"Set of points participants used to outline the area of interest (for replicability): Demonstrator then Interpreter "
+","Veridical","100I","T1","T2","18:32:24:246"

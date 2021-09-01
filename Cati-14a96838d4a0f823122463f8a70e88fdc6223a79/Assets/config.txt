@@ -1,0 +1,4 @@
+A.network.port=9001
+A.network.address=172.16.100.57
+B.network.port=9001
+B.network.address=172.16.100.57

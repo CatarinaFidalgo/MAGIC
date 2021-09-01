@@ -1,0 +1,2 @@
+"Set of points participants used to outline the area of interest (for replicability): Demonstrator then Interpreter "
+18:43:31:109"
