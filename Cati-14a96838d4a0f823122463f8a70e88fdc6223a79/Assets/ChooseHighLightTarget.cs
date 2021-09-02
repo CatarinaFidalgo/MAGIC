@@ -65,6 +65,8 @@ public class ChooseHighLightTarget : MonoBehaviour
                 
             }
 
+            /*
+
             else if (j >= 5 && j < 12)
             {
                 //102 active
@@ -83,9 +85,10 @@ public class ChooseHighLightTarget : MonoBehaviour
                 p101.GetComponent<HighLight>().radius = 0.0f;
                 p102.GetComponent<HighLight>().radius = 0.0f;
                 p103.GetComponent<HighLight>().radius = 0.05f;
-            }
+            } */
 
-            if (j >= 16)
+            //if (j >= 16) 
+            if (j >= 5)
             {
                  
                 evaluation.localIsDemonstrator = !evaluation.localIsDemonstrator;
