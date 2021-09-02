@@ -12,7 +12,7 @@ public class ControllerCalibration : MonoBehaviour
     void Start()
     {
         if (evaluation.machine == MachineType.A)
-            cam.transform.position = new Vector3 (-0.76f , 0f, -0.7f);
+            cam.transform.position = new Vector3 (-0.76f , 0f, -0.55f);
 
         if (evaluation.machine == MachineType.B)
             cam.transform.position = new Vector3(0.13f, 0f, -0.37f);
