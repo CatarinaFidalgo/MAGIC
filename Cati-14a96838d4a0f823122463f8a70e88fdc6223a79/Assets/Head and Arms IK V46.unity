@@ -39851,7 +39851,7 @@ MonoBehaviour:
   test2: 1
   participantID: 100I
   _resultsFolder: ResultsPilot2
-  localIsDemonstrator: 0
+  localIsDemonstrator: 1
   localWorkspace: {fileID: 1174460999}
   remoteWorkspace: {fileID: 1594974666}
   veridicalSetUp: {fileID: 1032742800}

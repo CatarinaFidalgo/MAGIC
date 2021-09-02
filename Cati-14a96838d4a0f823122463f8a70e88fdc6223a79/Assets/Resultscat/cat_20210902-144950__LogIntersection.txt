@@ -1,0 +1,5 @@
+Condition","ParticipantID","Test"," "Time Stamp","V_Local(cm3)","V_Remote(cm3)","V_Union(cm3)","V_Intersection(cm3)","Intersection (%)"
+Veridical","cat","T1","14:50:26:971","62.56223","81.83273","0","0.0"
+Veridical","cat","T1","14:51:12:118","28.18675","45.00004","17.8167","63.2"
+Veridical","cat","T1","14:51:52:212","24.59878","52.83435","5.106837","20.8"
+Veridical","cat","T1","14:52:34:355","107.225","183.1666","0","0.0"
